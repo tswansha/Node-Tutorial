@@ -1,0 +1,11 @@
+{
+  "name": "httpmodeule",
+  "version": "1.0.0",
+  "description": "Test code for HTTP Modules ",
+  "main": "Setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thilina Wanshathilaka",
+  "license": "ISC"
+}
