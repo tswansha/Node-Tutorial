@@ -1,7 +1,5 @@
 //importing read file and write file method from fs 
-const { readFile,writeFile }=require('fs')
-const util=require('util')
-
+const { readFile }=require('fs')
 
 //Implimenting new wrapping function getText to getText
 const getText=(path)=>

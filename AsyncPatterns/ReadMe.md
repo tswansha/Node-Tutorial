@@ -10,3 +10,7 @@
 ## (Promis.js) 
 - Demonstate Async code using promises
 - This result much cleaner code by minimizing nested callbacks
+
+## (Promisify.js) 
+- promisify() assumes that original is a function taking a callback as its final argument in all cases
+-

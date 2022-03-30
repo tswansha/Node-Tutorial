@@ -1,4 +1,3 @@
-Here is the Result
- This is first file of FS demonstration 
- This is Second file of FS demonstration 
- 
+Using util.promisify 
+ This is first file of promise demonstration 
+ This is Second file of promise demonstration 
